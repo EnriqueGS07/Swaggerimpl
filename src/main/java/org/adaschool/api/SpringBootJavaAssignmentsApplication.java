@@ -10,4 +10,5 @@ public class SpringBootJavaAssignmentsApplication {
         SpringApplication.run(SpringBootJavaAssignmentsApplication.class, args);
     }
 
+
 }
